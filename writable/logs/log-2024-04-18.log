@@ -1,0 +1,13 @@
+CRITICAL - 2024-04-18 17:12:39 --> ErrorException: Array to string conversion
+[Method: GET, Route: clima/getUbicaciones]
+in SYSTEMPATH/HTTP/ResponseTrait.php on line 370.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', '/Applications/XAMPP/xamppfiles/htdocs/topicos2024/system/HTTP/ResponseTrait.php', 370)
+ 2 SYSTEMPATH/HTTP/ResponseTrait.php(370): str_replace([...], '', [...])
+ 3 APPPATH/Controllers/Clima.php(36): CodeIgniter\HTTP\Response->send()
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Clima->getUbicaciones()
+ 5 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clima))
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Applications/XAMPP/xamppfiles/htdocs/topicos2024/public/index.php')

@@ -1,0 +1,208 @@
+CRITICAL - 2024-04-11 17:41:36 --> TypeError: CodeIgniter\Database\BaseBuilder::get(): Argument #1 ($limit) must be of type ?int, string given, called in /Applications/XAMPP/xamppfiles/htdocs/topicos2024/system/Model.php on line 918
+[Method: GET, Route: clima/getUbicaciones]
+in SYSTEMPATH/Database/BaseBuilder.php on line 1616.
+ 1 SYSTEMPATH/Model.php(918): CodeIgniter\Database\BaseBuilder->get('ubicacion')
+ 2 APPPATH/Controllers/Clima.php(13): CodeIgniter\Model->__call('get', [...])
+ 3 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Clima->getUbicaciones()
+ 4 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clima))
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Applications/XAMPP/xamppfiles/htdocs/topicos2024/public/index.php')
+CRITICAL - 2024-04-11 17:41:46 --> TypeError: CodeIgniter\Database\BaseBuilder::get(): Argument #1 ($limit) must be of type ?int, string given, called in /Applications/XAMPP/xamppfiles/htdocs/topicos2024/system/Model.php on line 918
+[Method: GET, Route: clima/getUbicaciones]
+in SYSTEMPATH/Database/BaseBuilder.php on line 1616.
+ 1 SYSTEMPATH/Model.php(918): CodeIgniter\Database\BaseBuilder->get('ubicacion')
+ 2 APPPATH/Controllers/Clima.php(13): CodeIgniter\Model->__call('get', [...])
+ 3 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Clima->getUbicaciones()
+ 4 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clima))
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Applications/XAMPP/xamppfiles/htdocs/topicos2024/public/index.php')
+CRITICAL - 2024-04-11 17:41:47 --> TypeError: CodeIgniter\Database\BaseBuilder::get(): Argument #1 ($limit) must be of type ?int, string given, called in /Applications/XAMPP/xamppfiles/htdocs/topicos2024/system/Model.php on line 918
+[Method: GET, Route: clima/getUbicaciones]
+in SYSTEMPATH/Database/BaseBuilder.php on line 1616.
+ 1 SYSTEMPATH/Model.php(918): CodeIgniter\Database\BaseBuilder->get('ubicacion')
+ 2 APPPATH/Controllers/Clima.php(13): CodeIgniter\Model->__call('get', [...])
+ 3 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Clima->getUbicaciones()
+ 4 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clima))
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Applications/XAMPP/xamppfiles/htdocs/topicos2024/public/index.php')
+CRITICAL - 2024-04-11 17:41:47 --> TypeError: CodeIgniter\Database\BaseBuilder::get(): Argument #1 ($limit) must be of type ?int, string given, called in /Applications/XAMPP/xamppfiles/htdocs/topicos2024/system/Model.php on line 918
+[Method: GET, Route: clima/getUbicaciones]
+in SYSTEMPATH/Database/BaseBuilder.php on line 1616.
+ 1 SYSTEMPATH/Model.php(918): CodeIgniter\Database\BaseBuilder->get('ubicacion')
+ 2 APPPATH/Controllers/Clima.php(13): CodeIgniter\Model->__call('get', [...])
+ 3 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Clima->getUbicaciones()
+ 4 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clima))
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Applications/XAMPP/xamppfiles/htdocs/topicos2024/public/index.php')
+CRITICAL - 2024-04-11 17:41:48 --> TypeError: CodeIgniter\Database\BaseBuilder::get(): Argument #1 ($limit) must be of type ?int, string given, called in /Applications/XAMPP/xamppfiles/htdocs/topicos2024/system/Model.php on line 918
+[Method: GET, Route: clima/getUbicaciones]
+in SYSTEMPATH/Database/BaseBuilder.php on line 1616.
+ 1 SYSTEMPATH/Model.php(918): CodeIgniter\Database\BaseBuilder->get('ubicacion')
+ 2 APPPATH/Controllers/Clima.php(13): CodeIgniter\Model->__call('get', [...])
+ 3 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Clima->getUbicaciones()
+ 4 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clima))
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Applications/XAMPP/xamppfiles/htdocs/topicos2024/public/index.php')
+CRITICAL - 2024-04-11 17:41:48 --> TypeError: CodeIgniter\Database\BaseBuilder::get(): Argument #1 ($limit) must be of type ?int, string given, called in /Applications/XAMPP/xamppfiles/htdocs/topicos2024/system/Model.php on line 918
+[Method: GET, Route: clima/getUbicaciones]
+in SYSTEMPATH/Database/BaseBuilder.php on line 1616.
+ 1 SYSTEMPATH/Model.php(918): CodeIgniter\Database\BaseBuilder->get('ubicacion')
+ 2 APPPATH/Controllers/Clima.php(13): CodeIgniter\Model->__call('get', [...])
+ 3 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Clima->getUbicaciones()
+ 4 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clima))
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Applications/XAMPP/xamppfiles/htdocs/topicos2024/public/index.php')
+CRITICAL - 2024-04-11 17:42:19 --> TypeError: CodeIgniter\Database\BaseBuilder::get(): Argument #1 ($limit) must be of type ?int, string given, called in /Applications/XAMPP/xamppfiles/htdocs/topicos2024/system/Model.php on line 918
+[Method: GET, Route: clima/getUbicaciones]
+in SYSTEMPATH/Database/BaseBuilder.php on line 1616.
+ 1 SYSTEMPATH/Model.php(918): CodeIgniter\Database\BaseBuilder->get('ubicacion')
+ 2 APPPATH/Controllers/Clima.php(13): CodeIgniter\Model->__call('get', [...])
+ 3 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Clima->getUbicaciones()
+ 4 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clima))
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Applications/XAMPP/xamppfiles/htdocs/topicos2024/public/index.php')
+CRITICAL - 2024-04-11 17:42:20 --> TypeError: CodeIgniter\Database\BaseBuilder::get(): Argument #1 ($limit) must be of type ?int, string given, called in /Applications/XAMPP/xamppfiles/htdocs/topicos2024/system/Model.php on line 918
+[Method: GET, Route: clima/getUbicaciones]
+in SYSTEMPATH/Database/BaseBuilder.php on line 1616.
+ 1 SYSTEMPATH/Model.php(918): CodeIgniter\Database\BaseBuilder->get('ubicacion')
+ 2 APPPATH/Controllers/Clima.php(13): CodeIgniter\Model->__call('get', [...])
+ 3 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Clima->getUbicaciones()
+ 4 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clima))
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Applications/XAMPP/xamppfiles/htdocs/topicos2024/public/index.php')
+CRITICAL - 2024-04-11 17:42:54 --> TypeError: CodeIgniter\Database\BaseBuilder::get(): Argument #1 ($limit) must be of type ?int, string given, called in /Applications/XAMPP/xamppfiles/htdocs/topicos2024/system/Model.php on line 918
+[Method: GET, Route: clima/getUbicaciones]
+in SYSTEMPATH/Database/BaseBuilder.php on line 1616.
+ 1 SYSTEMPATH/Model.php(918): CodeIgniter\Database\BaseBuilder->get('ubicacion')
+ 2 APPPATH/Controllers/Clima.php(13): CodeIgniter\Model->__call('get', [...])
+ 3 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Clima->getUbicaciones()
+ 4 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clima))
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Applications/XAMPP/xamppfiles/htdocs/topicos2024/public/index.php')
+ERROR - 2024-04-11 17:43:19 --> Error connecting to the database: mysqli_sql_exception: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/topicos2024/system/Database/MySQLi/Connection.php:187
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/topicos2024/system/Database/MySQLi/Connection.php(187): mysqli->real_connect('localhost', 'root', '', 'webservices', 3306, '', 0)
+#1 /Applications/XAMPP/xamppfiles/htdocs/topicos2024/system/Database/BaseConnection.php(420): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 /Applications/XAMPP/xamppfiles/htdocs/topicos2024/system/Database/BaseConnection.php(603): CodeIgniter\Database\BaseConnection->initialize()
+#3 /Applications/XAMPP/xamppfiles/htdocs/topicos2024/system/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/topicos2024/system/Model.php(918): CodeIgniter\Database\BaseBuilder->get()
+#5 /Applications/XAMPP/xamppfiles/htdocs/topicos2024/app/Controllers/Clima.php(13): CodeIgniter\Model->__call('get', Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/topicos2024/system/CodeIgniter.php(933): App\Controllers\Clima->getUbicaciones()
+#7 /Applications/XAMPP/xamppfiles/htdocs/topicos2024/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clima))
+#8 /Applications/XAMPP/xamppfiles/htdocs/topicos2024/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /Applications/XAMPP/xamppfiles/htdocs/topicos2024/system/Boot.php(312): CodeIgniter\CodeIgniter->run()
+#10 /Applications/XAMPP/xamppfiles/htdocs/topicos2024/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 /Applications/XAMPP/xamppfiles/htdocs/topicos2024/public/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 /Applications/XAMPP/xamppfiles/htdocs/topicos2024/system/Commands/Server/rewrite.php(49): require_once('/Applications/X...')
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No such file or directory in /Applications/XAMPP/xamppfiles/htdocs/topicos2024/system/Database/MySQLi/Connection.php:231
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/topicos2024/system/Database/BaseConnection.php(420): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /Applications/XAMPP/xamppfiles/htdocs/topicos2024/system/Database/BaseConnection.php(603): CodeIgniter\Database\BaseConnection->initialize()
+#2 /Applications/XAMPP/xamppfiles/htdocs/topicos2024/system/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 /Applications/XAMPP/xamppfiles/htdocs/topicos2024/system/Model.php(918): CodeIgniter\Database\BaseBuilder->get()
+#4 /Applications/XAMPP/xamppfiles/htdocs/topicos2024/app/Controllers/Clima.php(13): CodeIgniter\Model->__call('get', Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/topicos2024/system/CodeIgniter.php(933): App\Controllers\Clima->getUbicaciones()
+#6 /Applications/XAMPP/xamppfiles/htdocs/topicos2024/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clima))
+#7 /Applications/XAMPP/xamppfiles/htdocs/topicos2024/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /Applications/XAMPP/xamppfiles/htdocs/topicos2024/system/Boot.php(312): CodeIgniter\CodeIgniter->run()
+#9 /Applications/XAMPP/xamppfiles/htdocs/topicos2024/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 /Applications/XAMPP/xamppfiles/htdocs/topicos2024/public/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 /Applications/XAMPP/xamppfiles/htdocs/topicos2024/system/Commands/Server/rewrite.php(49): require_once('/Applications/X...')
+#12 {main}
+CRITICAL - 2024-04-11 17:43:19 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+[Method: GET, Route: clima/getUbicaciones]
+in SYSTEMPATH/Database/BaseConnection.php on line 456.
+ 1 SYSTEMPATH/Database/BaseConnection.php(603): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `clima`', [], false)
+ 3 SYSTEMPATH/Model.php(918): CodeIgniter\Database\BaseBuilder->get()
+ 4 APPPATH/Controllers/Clima.php(13): CodeIgniter\Model->__call('get', [])
+ 5 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Clima->getUbicaciones()
+ 6 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clima))
+ 7 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Applications/XAMPP/xamppfiles/htdocs/topicos2024/public/index.php')
+CRITICAL - 2024-04-11 18:07:52 --> Error: Call to undefined method CodeIgniter\Database\MySQLi\Result::select()
+[Method: GET, Route: clima/getUbicaciones]
+in APPPATH/Controllers/Clima.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Clima->getUbicaciones()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clima))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Applications/XAMPP/xamppfiles/htdocs/topicos2024/public/index.php')
+CRITICAL - 2024-04-11 18:08:36 --> TypeError: CodeIgniter\Database\BaseBuilder::get(): Argument #1 ($limit) must be of type ?int, string given, called in /Applications/XAMPP/xamppfiles/htdocs/topicos2024/system/Model.php on line 918
+[Method: GET, Route: clima/getUbicaciones]
+in SYSTEMPATH/Database/BaseBuilder.php on line 1616.
+ 1 SYSTEMPATH/Model.php(918): CodeIgniter\Database\BaseBuilder->get('ubicacion')
+ 2 APPPATH/Controllers/Clima.php(13): CodeIgniter\Model->__call('get', [...])
+ 3 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Clima->getUbicaciones()
+ 4 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clima))
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Applications/XAMPP/xamppfiles/htdocs/topicos2024/public/index.php')
+CRITICAL - 2024-04-11 18:08:53 --> Error: Call to undefined method CodeIgniter\Database\MySQLi\Result::groupBy()
+[Method: GET, Route: clima/getUbicaciones]
+in APPPATH/Controllers/Clima.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Clima->getUbicaciones()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clima))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Applications/XAMPP/xamppfiles/htdocs/topicos2024/public/index.php')
+CRITICAL - 2024-04-11 18:14:30 --> Error: Object of class CodeIgniter\Database\MySQLi\Result could not be converted to string
+[Method: GET, Route: clima/getUbicaciones]
+in APPPATH/Controllers/Clima.php on line 20.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Clima->getUbicaciones()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clima))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Applications/XAMPP/xamppfiles/htdocs/topicos2024/public/index.php')
+CRITICAL - 2024-04-11 18:14:32 --> Error: Object of class CodeIgniter\Database\MySQLi\Result could not be converted to string
+[Method: GET, Route: clima/getUbicaciones]
+in APPPATH/Controllers/Clima.php on line 20.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Clima->getUbicaciones()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Clima))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Applications/XAMPP/xamppfiles/htdocs/topicos2024/public/index.php')
